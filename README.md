@@ -1,6 +1,6 @@
 ## Description
 
-An adventure game for player to traverse through different mazes. The largest maze is a graph consisting of 500 rooms. This python app will count the moves of `traversal_path` with directions that, when walked in order, will visit every room on the map at least once.
+An adventure game for players to traverse through different mazes. The largest maze is a graph consisting of 500 rooms. This python app will count the moves of `traversal_path` with directions that, when walked in order, will visit every room on the map at least once.
 
 Open `adv.py`. There are four parts to code:
 
